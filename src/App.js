@@ -1,10 +1,8 @@
-import './App.css';
-
 const App = () => {
   return (
-    <div className="App">
+    <div className="font-bold text-center">
       <h1>
-        Simple create-react-app Boilerplate
+        Simple create-react-app Boilerplate with tailwind
       </h1>
     </div>
   );
